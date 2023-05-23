@@ -1,4 +1,5 @@
-# Yorvis Melendez 👨‍💻
+# Yorvis Melendez 👨‍💻![Avatar](https://www.linkedin.com/feed/update/urn:li:share:7066783731306385408/)
+
 [yorvismel on GitHub](https://github.com/yorvismel) 🚀
 Full Stack Developer | JavaScript | React | Node.js
 

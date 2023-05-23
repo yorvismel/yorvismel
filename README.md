@@ -37,4 +37,3 @@ If you're interested in collaborating on an exciting project or simply want to c
 
 You can find more about my work and projects on my [GitHub profile](https://github.com/yorvismel) and contact me via yorvis.melendez@gmail.com.
 
-I hope this serves as a good starting point. If you have any other requests or specific changes in mind, please let me know!
